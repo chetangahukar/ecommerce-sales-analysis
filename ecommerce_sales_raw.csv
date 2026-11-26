@@ -1,0 +1,103 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price,City,Marketplace,Status
+1032,2026-11-17,Sneakers,Footwear,4,1799,Nagpur,Amazon,Delivered
+1072,2026-11-12,Backpack,Accessories,4,899,Chandrapur,Shopify,Delivered
+1026,2026-11-17,Sandals,Footwear,1,699,Delhi,Flipkart,Delivered
+1053,2026-11-15,Backpack,Accessories,3,899,Nagpur,Amazon,Delivered
+1043,2026-11-03,Mouse,Electronics,2,599,Hyderabad,Flipkart,Delivered
+1041,2026-11-06,Jeans,Clothing,3,1199,Pune,Amazon,Pending
+1061,2026-11-21,Headphones,Electronics,3,1499,Hyderabad,Shopify,Delivered
+1090,2026-11-15,Sandals,Footwear,1,699,Delhi,Amazon,Pending
+1014,2026-11-08,Sandals,Footwear,3,699,Nagpur,Amazon,Returned
+1037,2026-11-04,USB Cable,Accessories,1,299,Chandrapur,Flipkart,Delivered
+1059,2026-11-07,T-shirt,Clothing,3,499,Delhi,Flipkart,Delivered
+1038,2026-11-15,Jeans,Clothing,1,1199,Chandrapur,Shopify,Cancelled
+1087,2026-11-20,Sneakers,Footwear,1,1799,Pune,Flipkart,Pending
+1075,2026-11-14,T-shirt,Clothing,1,499,Pune,Shopify,Delivered
+1088,2026-11-07,Power Bank,Electronics,4,999,Pune,Flipkart,Delivered
+1033,2026-11-01,T-shirt,Clothing,2,499,Delhi,Amazon,Delivered
+1001,2026-11-01,Keyboard,Electronics,3,1299,Hyderabad,Amazon,Delivered
+1062,2026-11-18,Jeans,Clothing,1,1199,,Amazon,Pending
+1036,2026-11-19,Power Bank,Electronics,4,999,Hyderabad,Flipkart,Returned
+1079,2026-11-17,Backpack,Accessories,3,899,Chandrapur,Flipkart,Delivered
+1047,2026-11-19,Mouse,Electronics,1,599,Chandrapur,Flipkart,Delivered
+1064,2026-11-05,Jeans,Clothing,1,1199,Mumbai,Flipkart,Pending
+1020,2026-11-21,Headphones,Electronics,2,1499,Chandrapur,Flipkart,Delivered
+1083,2026-11-20,Power Bank,Electronics,3,999,Pune,Flipkart,Delivered
+1012,2026-11-23,Backpack,Accessories,1,899,Delhi,Shopify,Delivered
+1058,2026-11-24,Keyboard,Electronics,2,1299,Mumbai,Flipkart,Delivered
+1067,2026-11-06,USB Cable,Accessories,2,299,Pune,Amazon,Delivered
+1054,2026-11-04,Power Bank,Electronics,1,999,Delhi,Amazon,Delivered
+1045,2026-11-09,Jeans,Clothing,4,1199,Mumbai,Flipkart,Delivered
+1068,2026-11-14,T-shirt,Clothing,2,499,Mumbai,Amazon,Returned
+1019,2026-11-17,Headphones,Electronics,4,1499,Nagpur,Amazon,Pending
+1008,2026-11-13,Keyboard,Electronics,1,1299,Delhi,Flipkart,Returned
+1077,2026-11-22,Sandals,Footwear,2,699,Mumbai,Flipkart,Delivered
+1009,2026-11-12,Power Bank,Electronics,2,999,,Amazon,Delivered
+1013,2026-11-06,USB Cable,Accessories,4,299,Pune,Flipkart,Cancelled
+1010,2026-11-10,USB Cable,Accessories,1,299,Hyderabad,Amazon,Delivered
+1040,2026-11-08,Keyboard,Electronics,2,1299,Hyderabad,Shopify,Delivered
+1013,2026-11-06,USB Cable,Accessories,4,299,Pune,Flipkart,Cancelled
+1016,2026-11-23,Power Bank,Electronics,3,999,Hyderabad,Shopify,Delivered
+1085,2026-11-17,Backpack,Accessories,3,899,Nagpur,Amazon,Delivered
+1003,2026-11-07,Keyboard,Electronics,2,1299,Delhi,Shopify,Delivered
+1084,2026-11-17,USB Cable,Accessories,4,299,Chandrapur,Amazon,Delivered
+1005,2026-11-06,Mouse,Electronics,4,599,Mumbai,Flipkart,Delivered
+1065,2026-11-12,Mouse,Electronics,2,599,Chandrapur,Amazon,Delivered
+1015,2026-11-13,T-shirt,Clothing,3,499,Nagpur,Amazon,Pending
+1023,2026-11-04,T-shirt,Clothing,3,499,Pune,Amazon,Delivered
+1074,2026-11-02,Backpack,Accessories,1,899,Delhi,Flipkart,Delivered
+1089,2026-11-04,Mouse,Electronics,4,599,Hyderabad,Amazon,Returned
+1048,2026-11-16,Power Bank,Electronics,2,999,Nagpur,Shopify, Delivered 
+1002,2026-11-22,Keyboard,Electronics,1,1299,Delhi,Flipkart,Delivered
+1031,2026-11-23,USB Cable,Accessories,3,299,Pune,Shopify,Delivered
+1006,2026-11-04,T-shirt,Clothing,1,499,Pune,Amazon,Delivered
+1080,2026-11-18,Backpack,Accessories,2,899,Hyderabad,Flipkart,Delivered
+1027,2026-11-12,Keyboard,Electronics,3,1299,Hyderabad,Amazon,Delivered
+1098,2026-11-03,USB Cable,Accessories,4,299,Pune,Flipkart,Delivered
+1094,2026-11-09,Sneakers,Footwear,2,1799,Chandrapur,Flipkart,Returned
+1071,2026-11-13,USB Cable,Accessories,3,299,Mumbai,Amazon,Cancelled
+1025,2026-11-21,Backpack,Accessories,2,899,Hyderabad,Flipkart,Returned
+1057,2026-11-10,Sandals,Footwear,1,699,Hyderabad,Flipkart,Delivered
+1066,2026-11-18,T-shirt,Clothing,4,499,Delhi,Shopify,Delivered
+1082,2026-11-01,Sandals,Footwear,3,699,Mumbai,Amazon,Delivered
+1021,2026-11-13,Jeans,Clothing,4,1199,Delhi,Flipkart,Cancelled
+1030,2026-11-09,Headphones,Electronics,4,1499,Hyderabad,Shopify,Returned
+1028,2026-11-03,Power Bank,Electronics,1,999,Chandrapur,Flipkart,Returned
+1042,2026-11-15,Keyboard,Electronics,1,1299,Nagpur,Shopify,Cancelled
+1049,2026-11-03,Headphones,Electronics,1,1499,Chandrapur,Amazon,Delivered
+1034,2026-11-08,Mouse,Electronics,1,599,Nagpur,Flipkart,Delivered
+1007,2026-11-20,T-shirt,Clothing,3,499,Nagpur,Shopify,Delivered
+1024,2026-11-17,Backpack,Accessories,2,899,Delhi,Amazon,Pending
+1081,2026-11-22,Jeans,Clothing,2,1199,Delhi,Shopify,Delivered
+1018,2026-11-09,Sandals,Footwear,4,699,Delhi,Flipkart,Delivered
+1055,2026-11-12,Headphones,Electronics,1,1499,Hyderabad,Flipkart,Delivered
+1011,2026-11-21,Sneakers,Footwear,3,1799,Hyderabad,Flipkart,Delivered
+1093,2026-11-14,Sandals,Footwear,4,699,Hyderabad,Shopify,Pending
+1073,2026-11-04,Mouse,Electronics,3,599,Hyderabad,Shopify,Cancelled
+1076,23/11/2026,Mouse,Electronics,4,599,Nagpur,Shopify,Pending
+1051,2026-11-19,Power Bank,Electronics,3,999,Mumbai,Amazon,Delivered
+1086,2026-11-07,USB Cable,Accessories,2,299,Nagpur,Amazon,Delivered
+1100,2026-11-23,Power Bank,Electronics,1,999,Delhi,Flipkart,Delivered
+1017,2026-11-05,Sneakers,Footwear,3,1799,Hyderabad,Amazon,Delivered
+1060,2026-11-03,Mouse,Electronics,4,599,Mumbai,Amazon,Delivered
+1022,2026-11-22,Mouse,Electronics,1,599,Chandrapur,amazon,Returned
+1052,2026-11-08,T-shirt,Clothing,3,499,Pune,Amazon,Delivered
+1044,2026-11-13,USB Cable,Accessories,1,299,Hyderabad,Flipkart,Delivered
+1099,2026-11-02,Jeans,Clothing,2,1199,Pune,Flipkart,Pending
+1004,2026-11-23,USB Cable,Accessories,4,299,Hyderabad,Flipkart,Delivered
+1091,2026-11-15,Keyboard,Electronics,2,1299,Pune,Shopify,Delivered
+1056,2026-11-18,Sneakers,Footwear,3,1799,Delhi,Shopify,Delivered
+1035,2026-11-09,USB Cable,accessories,4,299,Hyderabad,Shopify,Delivered
+1092,2026-11-20,Sandals,Footwear,3,699,Pune,Shopify,Returned
+1063,2026-11-18,Headphones,Electronics,1,1499,Mumbai,Shopify,Delivered
+1029,2026-11-05,Sandals,Footwear,2,699,Chandrapur,Flipkart,Pending
+1078,2026-11-20,T-shirt,Clothing,3,499,Chandrapur,Amazon,Delivered
+1070,2026-11-12,Sneakers,Footwear,3,1799,Hyderabad,Amazon,Delivered
+1095,2026-11-16,Sandals,Footwear,2,699,Mumbai,Flipkart,Delivered
+1096,2026-11-08,Backpack,Accessories,3,899,Mumbai,Flipkart,Pending
+1069,2026-11-13,Keyboard,Electronics,1,1299,Pune,Amazon,Delivered
+1054,2026-11-04,Power Bank,Electronics,1,999,Delhi,Amazon,Delivered
+1050,2026-11-08,Power Bank,Electronics,1,999,Delhi,Amazon,Delivered
+1097,2026-11-05,Keyboard,Electronics,2,1299,Hyderabad,Flipkart,Delivered
+1039,2026-11-02,Keyboard,Electronics,4,1299,Chandrapur,Flipkart,Returned
+1046,2026-11-22,Sandals,Footwear,4,699,Hyderabad,Amazon,Delivered
